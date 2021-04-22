@@ -1,4 +1,4 @@
-<h1>**HI, I’M SILAS SANTOS**👨‍💻</h1>
+<h1>HI, I’M SILAS SANTOS👨‍💻</h1>
 
 **Hello, You are welcome to my profile!👋🤓**
 
