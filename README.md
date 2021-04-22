@@ -3,7 +3,7 @@
 **Hello, You are welcome to my profile!👋🤓**
 
 - 📚🖱 Student in systems analysis and development
-- 🌱 I’m currently learning ...
+- 🔍 Technology, news and curiosities
 - 💡 Every day looking me improve and discover something new in the programming!
 
 <!---
