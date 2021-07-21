@@ -10,7 +10,7 @@
 
 ![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/silas-santos-188142181//)
 
-https://silassanttos.github.io/pag/
+ link: [web-site](https://silassanttos.github.io/pag/)
 <!---
 silassanttos/silassanttos is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
