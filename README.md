@@ -3,6 +3,9 @@
 
 **Hello, You are welcome to my profile!👋🤓**
 
+![Snake animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
+
+
 - 📚🖱 Student in systems analysis and development
 - 🔍 Technology, news and curiosities
 - 💡 Every day looking me improve and discover something new in the programming!
