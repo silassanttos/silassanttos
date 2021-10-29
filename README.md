@@ -11,7 +11,7 @@
 - 💡 Every day looking me improve and discover something new in the programming!
 
 
-![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/silas-santos-188142181//)
+![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/silas-santos-188142181/)
 
  link: [web-site](https://silassanttos.github.io/pag/)
 <!---
