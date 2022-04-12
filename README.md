@@ -3,7 +3,7 @@
 
 **Hello, You are welcome to my profile!👋🤓**
 
-![Snake animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/silassanttos/snake_svg/a55ca3696d59ab086c86462b288f38e4000c672a/snake_feed.svg)
 
 
 - 📚🖱 Student in systems analysis and development
