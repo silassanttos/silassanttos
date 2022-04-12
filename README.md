@@ -3,6 +3,7 @@
 
 **Hello, You are welcome to my profile!👋🤓**
 
+ [![Blog](https://img.shields.io/website?label=www.silassantos.com.br&style=for-the-badge&url=http://silassantos.x10.mx/)](http://silassantos.x10.mx/)
 ![Snake animation](https://raw.githubusercontent.com/silassanttos/snake_svg/a55ca3696d59ab086c86462b288f38e4000c672a/snake_feed.svg)
 
 
@@ -11,9 +12,8 @@
 - 💡 Every day looking me improve and discover something new in the programming!
 
 
-![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/silas-santos-188142181/)
+![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/silas-santos-188142181/)   &nbsp;&nbsp;
 
- link: [web-site](https://silassanttos.github.io/pag/)
 <!---
 silassanttos/silassanttos is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
