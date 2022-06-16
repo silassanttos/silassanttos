@@ -15,7 +15,7 @@
 ![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/silas-santos-188142181/)   &nbsp;&nbsp;
 
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=marceloalves95&show_icons=true&locale=en&layout=compact" alt="marceloalves95"/></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=silassanttos&show_icons=true&locale=en&layout=compact" alt="silassanttos"/></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=silassanttos&show_icons=true&locale=en" alt="silassanttos"/></p>
 
