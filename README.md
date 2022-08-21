@@ -3,7 +3,7 @@
 
 **Hello, You are welcome to my profile!👋🤓**
 
-[![Blog](https://img.shields.io/website?label=www.silassantos.com.br&style=for-the-badge&url=[http://silassantos.x10.mx/](https://silassanttos.com.br/))]
+[![Blog](https://img.shields.io/website?label=www.silassantos.com.br&style=for-the-badge&url=[https://silassanttos.com.br/](https://silassanttos.com.br/))]
  
 ![Snake animation](https://raw.githubusercontent.com/silassanttos/snake_svg/a55ca3696d59ab086c86462b288f38e4000c672a/snake_feed.svg)
 
