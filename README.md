@@ -4,8 +4,9 @@
 **Hello, You are welcome to my profile!👋🤓**
 <!--
 [![Blog](https://img.shields.io/website?label=www.silassanttos.com.br&style=for-the-badge&url=http://silassanttos.com.br/)](http://silassanttos.com.br/) -->
- 
-![Snake animation](https://raw.githubusercontent.com/silassanttos/snake_svg/a55ca3696d59ab086c86462b288f38e4000c672a/snake_feed.svg)
+
+ <!--
+![Snake animation](https://raw.githubusercontent.com/silassanttos/snake_svg/a55ca3696d59ab086c86462b288f38e4000c672a/snake_feed.svg) -->
 
 
 - 📚🖱 Student in systems analysis and development
