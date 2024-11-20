@@ -9,9 +9,13 @@
 ![Snake animation](https://raw.githubusercontent.com/silassanttos/snake_svg/a55ca3696d59ab086c86462b288f38e4000c672a/snake_feed.svg) -->
 
 
-- 📚🖱 Student in systems analysis and development
-- 🔍 Technology, news and curiosities
-- 💡 Every day looking me improve and discover something new in the programming!
+🛠️ Tecnologias e Competências:
+Desenvolvimento Backend: Node.js, C#, Java
+Banco de Dados: SQL Server, T-SQL (Stored Procedures, Performance Tuning, Query Optimization)
+Administração de Banco de Dados: Modelagem, Backup, Recovery, High Availability
+Ferramentas: Visual Studio,Visual Studio Code, SQL Server Management Studio (SSMS), Git,SQL Server Profiler
+Integração: APIs RESTful, Web Services
+
 
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=silassanttos&show_icons=true&locale=en&layout=compact" alt="silassanttos"/></p>
 
